@@ -16,7 +16,7 @@ cd students-api-graphql
   NAME = value
 `
 
-Após configurar e salvar as variáveis de ambiente, rode o comando a seguir para subir o container Docker:
+## Após configurar e salvar as variáveis de ambiente, rode o comando a seguir para subir o container Docker:
 
 `
 docker-compose up
